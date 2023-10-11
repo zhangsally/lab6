@@ -26,7 +26,7 @@ Your name is [name] and you are [age] years old.
 Pull requests are welcome, but they may or may not be applied at our discretion.
 
 # Code-of-Conduct
-See CODE-OF-CONDUCT.md
+See Code-Of-Conduct.md
 
 # License
 See LICENSE.md
